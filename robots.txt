@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ascoff.com.tr/sitemap.xml
